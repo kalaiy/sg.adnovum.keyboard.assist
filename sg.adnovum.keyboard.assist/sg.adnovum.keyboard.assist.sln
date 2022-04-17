@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.31911.260
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "sg.adnovum.keyboard.assist", "sg.adnovum.keyboard.assist\sg.adnovum.keyboard.assist.csproj", "{318A1E42-93A7-4462-B3FA-53E127EEC8F6}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "sg.adnovum.keyboard.assist.console", "..\sg.adnovum.keyboard.assist.console\sg.adnovum.keyboard.assist.console.csproj", "{E9249133-B7EE-428A-B43E-3F0ADE633EFB}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "sg.adnovum.keyboard.assist.unittest", "..\sg.adnovum.keyboard.assist.unittest\sg.adnovum.keyboard.assist.unittest.csproj", "{2D2FC0EB-EEA2-48F2-938D-300D5806E56C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{318A1E42-93A7-4462-B3FA-53E127EEC8F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{318A1E42-93A7-4462-B3FA-53E127EEC8F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{318A1E42-93A7-4462-B3FA-53E127EEC8F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{318A1E42-93A7-4462-B3FA-53E127EEC8F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E9249133-B7EE-428A-B43E-3F0ADE633EFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9249133-B7EE-428A-B43E-3F0ADE633EFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9249133-B7EE-428A-B43E-3F0ADE633EFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9249133-B7EE-428A-B43E-3F0ADE633EFB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2D2FC0EB-EEA2-48F2-938D-300D5806E56C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D2FC0EB-EEA2-48F2-938D-300D5806E56C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D2FC0EB-EEA2-48F2-938D-300D5806E56C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D2FC0EB-EEA2-48F2-938D-300D5806E56C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {94BB25F4-5C8A-4A59-BF48-49894E97ADEE}
+	EndGlobalSection
+EndGlobal
